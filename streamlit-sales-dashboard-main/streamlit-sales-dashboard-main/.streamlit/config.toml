@@ -1,0 +1,22 @@
+[theme]
+# Primary accent color (red).
+primaryColor = "#FF0000"
+
+# Background color for the main content area (white).
+backgroundColor = "#FFFFFF"
+
+# Background color used for the sidebar and most interactive widgets (silver or grey).
+secondaryBackgroundColor = "#C0C0C0"  # Silver or grey
+
+# Color used for almost all text on the main page (black).
+mainPageTextColor = "#000000"
+
+# Color used for almost all text on secondary pages (white).
+secondaryPageTextColor = "#FFFFFF"
+
+# Font family for all text in the app, except code blocks. One of "sans serif", "serif", or "monospace".
+# Default: "sans serif"
+font = "sans serif"
+
+# Accent color (silver).
+accentColor = "#C0C0C0"
