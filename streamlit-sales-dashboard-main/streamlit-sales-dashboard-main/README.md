@@ -14,6 +14,7 @@ Sherry Li : minghsul@andrew.cmu.edu
 
 The burgeoning Battery Electric Vehicle (BEV) market presents both opportunities and challenges for companies seeking to establish a significant presence. As we navigate this dynamic landscape, several key issues and considerations emerge that necessitate careful attention and strategic planning.
 In navigating the evolving Battery Electric Vehicle (BEV) market, three key considerations emerge for strategic planning. 
+
 **Entry Strategy:** 
 
 There is a need to prioritize popular segments, specifically sedans, wagons, and SUVs, for new BEV models to align with consumer preferences.
