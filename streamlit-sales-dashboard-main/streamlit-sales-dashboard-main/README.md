@@ -37,7 +37,7 @@ With California leading in fuel stations and Washington showing high vehicle ado
 
 
 ## Video Demo
-[![YouTube Video](https://youtu.be/Z1LmfR9L18c)
+https://youtu.be/Z1LmfR9L18c
 
 ## 💌 Feedback
 Got some thoughts or suggestions? Don't hesitate to reach out to me at sherinegeorge21@gmail.com. I'd love to hear from you! 💡
