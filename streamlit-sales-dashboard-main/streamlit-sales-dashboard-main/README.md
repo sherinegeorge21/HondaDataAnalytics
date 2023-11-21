@@ -21,19 +21,28 @@ In navigating the evolving Battery Electric Vehicle (BEV) market, three key cons
 ## Recommendations
 
 **Focus on Popular Segments** 
+
 Given the popularity of sedans and wagons, followed by SUVs in the alternative fuel vehicle market, prioritize these segments for new BEV models
+
 **Tesla's Prominence** 
+
 Tesla, followed by Nissan, is prominent in the electric vehicle market. Consider strategies to differentiate from these market leaders, such as unique design, pricing, or technological features.
+
 **CAFV Eligibility Trends** 
 The decrease in Clean Alternative Fuel Vehicle (CAFV) eligibility over the years suggests changing regulations or consumer preferences, warranting a closer look at policy and market dynamics.
+
 **Model 3's High Presence** 
+
 The significant presence of Tesla's Model 3 suggests a strong market preference for this type of vehicle. Analyze its features and popularity to inform the development of competitive models.
+
 **Diverse Fuel Options in Categories**
 Different vehicle categories have varying alternative fuel options. This diversity indicates opportunities in niche markets with specific fuel type preferences.
+
 **Geographical Focus**
 With California leading in fuel stations and Washington showing high vehicle adoption, focus on these states for initial market entry and expansion strategies.
+
 **Competitive Strategy**
- Develop a competitive strategy that leverages Ford's focus on BEVs and other manufacturers' focus on hybrid electric vehicles, possibly exploring niche segments or innovative technology.
+Develop a competitive strategy that leverages Ford's focus on BEVs and other manufacturers' focus on hybrid electric vehicles, possibly exploring niche segments or innovative technology.
 
 
 ## Video Demo
