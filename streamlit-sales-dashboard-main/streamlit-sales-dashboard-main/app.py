@@ -1,8 +1,3 @@
-# @Email:  contact@pythonandvba.com
-# @Website:  https://pythonandvba.com
-# @YouTube:  https://youtube.com/c/CodingIsFun
-# @Project:  Sales Dashboard w/ Streamlit
-
 
 
 import pandas as pd  # pip install pandas openpyxl
