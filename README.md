@@ -58,5 +58,5 @@ Develop a competitive strategy that leverages Ford's focus on BEVs and other man
 https://youtu.be/Z1LmfR9L18c
 
 ## 💌 Feedback
-Got some thoughts or suggestions? Don't hesitate to reach out to me at shashankreddy0709@gmaill.com or sherinegeorge21@gmail.com . I'd love to hear from you! 💡
+Got some thoughts or suggestions? Don't hesitate to reach out to me at shashankreddy0709@gmail.com or sherinegeorge21@gmail.com . I'd love to hear from you! 💡
 
